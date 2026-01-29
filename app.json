@@ -1,12 +1,14 @@
 {
   "expo": {
-    "name": "marketplace-app",
+    "name": "Marketplace App",
     "slug": "marketplace-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
+    "description": "A production-quality marketplace mobile app with React Native, TypeScript, Redux Toolkit, and Redux Saga",
+    "githubUrl": "https://github.com/yourusername/marketplace-app",
     "splash": {
       "image": "./assets/splash-icon.png",
       "resizeMode": "contain",
