@@ -1,5 +1,14 @@
 # React Native Marketplace App
 
+<img width="237" height="561" alt="image" src="https://github.com/user-attachments/assets/881d0f02-9949-45f6-bd32-42cde274257f" />
+<img width="215" height="548" alt="image" src="https://github.com/user-attachments/assets/e89efd96-72eb-4404-9d08-c3741d56cc18" />
+<img width="210" height="549" alt="image" src="https://github.com/user-attachments/assets/e2190c3f-05ed-416c-8704-bc67d7b2f526" />
+<img width="208" height="545" alt="image" src="https://github.com/user-attachments/assets/c0e99714-3e1c-4299-9876-b35677f39bac" />
+
+
+
+
+
 A production-quality marketplace mobile application built with React Native (Expo), TypeScript, Redux Toolkit, Redux Saga, and Styled Components. This project demonstrates clean architecture principles, performance optimization, and comprehensive edge-case handling.
 
 ## 🚀 Features
