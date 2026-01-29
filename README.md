@@ -1,12 +1,11 @@
 # React Native Marketplace App
-
-<img width="237" height="561" alt="image" src="https://github.com/user-attachments/assets/881d0f02-9949-45f6-bd32-42cde274257f" />
-<img width="215" height="548" alt="image" src="https://github.com/user-attachments/assets/e89efd96-72eb-4404-9d08-c3741d56cc18" />
-<img width="210" height="549" alt="image" src="https://github.com/user-attachments/assets/e2190c3f-05ed-416c-8704-bc67d7b2f526" />
-<img width="208" height="545" alt="image" src="https://github.com/user-attachments/assets/c0e99714-3e1c-4299-9876-b35677f39bac" />
+<img width="301" height="655" alt="simulator_screenshot_39128093-6866-4529-AB1E-0660CF96CB88" src="https://github.com/user-attachments/assets/7e06f017-5f75-4f02-992f-ebee48506376" />
 
 
+<img width="301" height="655" alt="simulator_screenshot_0492035C-1AE0-4F0A-83AE-B967DB074B29" src="https://github.com/user-attachments/assets/d7e84937-5a53-420c-ae5d-a9af1d9425d4" />
 
+
+<img width="301" height="655" alt="simulator_screenshot_978897B3-DA78-463F-8297-FE9EF73A35DA" src="https://github.com/user-attachments/assets/8457ad5d-9d5b-43cd-9b60-ec2571333a20" />
 
 
 A production-quality marketplace mobile application built with React Native (Expo), TypeScript, Redux Toolkit, Redux Saga, and Styled Components. This project demonstrates clean architecture principles, performance optimization, and comprehensive edge-case handling.
